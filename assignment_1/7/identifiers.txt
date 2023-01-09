@@ -1,0 +1,16 @@
+count val i j i
+x y z
+arr
+matrix
+data
+val
+line
+text
+yytext
+listNode
+ptr
+listNode
+vector
+array
+key val pair map graph
+node
